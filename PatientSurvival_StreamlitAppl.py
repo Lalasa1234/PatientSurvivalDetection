@@ -6,11 +6,11 @@ from keras.utils import normalize
 import pandas as pd
 import category_encoders as ce
 
-model = load_model(r'C:\Users\Dell\Desktop\ML course\DeepLearning\PatientSurvivalDetection_Project4\ModelCheckPoint_Logs\best_model.keras')
+model = load_model('Model/ModelCheckPoint/best_model.keras')
 
 st.title('Prediction of Patient Survival')
 
-uploaded_file = st.file_uploader('Please upload the Patient form below to predict his/her survival')
+uploaded_file = st.file_uploader('Please upload the Patients' details below to predict their chances of survival')
 
 if uploaded_file is not None:
     df_temp = pd.read_csv(uploaded_file)
