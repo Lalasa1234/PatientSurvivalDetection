@@ -1,6 +1,7 @@
 ﻿numpy==1.24.4
 pandas==1.5.3
 scikit_learn==1.4.2
+category_encoders==2.6.3
 streamlit==1.33.0
 keras==3.3.2
 tensorflow==2.16.1
