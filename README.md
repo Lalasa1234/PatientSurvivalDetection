@@ -5,7 +5,11 @@
 - Auto EDA using autoviz
 
 **Deep Learning Model using Keras**
-- Involves multiple callbacks on a strategic reduction of learning rate
+- Optuna-based Hyperparameter tuning and Kerascheckback to prune inefficient trials
 - Model checkpoint to save the best model state
 - Early stopping and logging
 - TensorBoard graphic visualization
+
+**Deployment**
+- In medical context, practitioners typical upload patient results to predict their survival.
+- Hence, the application has an option to upload file containing any no. of patient paramaters
