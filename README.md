@@ -11,4 +11,4 @@
 
 **Deployment**
 - In medical context, practitioners typical upload patient results to predict their survival. Hence, this application has the option to upload patient information of any no.
-- Link: 
+- Link: https://patientsurvivaldetection-gjfgzmmltdkgycabkjnrcz.streamlit.app/
