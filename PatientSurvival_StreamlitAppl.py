@@ -10,7 +10,7 @@ model = load_model('Model/ModelCheckPoint/best_model.keras')
 
 st.title('Prediction of Patient Survival')
 
-uploaded_file = st.file_uploader('Please upload the Patients' details below to predict their chances of survival')
+uploaded_file = st.file_uploader('Please upload the details of Patients to predict their chances of survival')
 
 if uploaded_file is not None:
     df_temp = pd.read_csv(uploaded_file)
