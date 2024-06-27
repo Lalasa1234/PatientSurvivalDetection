@@ -12,4 +12,4 @@
 
 **Deployment**
 - In medical context, practitioners typical upload patient results to predict their survival.
-- Hence, the application has an option to upload file containing any no. of patient paramaters
+- Hence, the application has an option to upload patient information of any no.
