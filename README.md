@@ -7,8 +7,7 @@
 **Deep Learning Model using Keras**
 - Optuna-based Hyperparameter tuning and Kerascheckback to prune inefficient trials
 - Model checkpoint to save the best model state
-- Early stopping and logging
-- TensorBoard graphic visualization
+- Backtracking the Streamlit results
 
 **Deployment**
 - In medical context, practitioners typical upload patient results to predict their survival.
