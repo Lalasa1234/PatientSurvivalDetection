@@ -1,4 +1,4 @@
-# PatientSurvivalDetection #
+# PatientSurvivalDetection 🏥💊 #
 
 **Involves heavy data cleaning and preprocessing**
 - Outlier capping based on the APACHE3 medical standards
