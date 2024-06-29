@@ -2,7 +2,7 @@
 
 **Objective**
 ---
-...
+***
 
 To predict the chances of patient survival based on multiple variables on demographic, vitals, labs results, labs blood gas, APACHE covariate, prediction, comorbidity and grouping.
 
