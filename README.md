@@ -3,6 +3,7 @@
 **Objective**
 
 To predict the chances of patient survival based on multiple variables on demographic, vitals, labs results, labs blood gas, APACHE covariate, prediction, comorbidity and grouping.
+___
 
 **Involves heavy data cleaning and preprocessing**
 - Outlier capping based on the APACHE3 medical standards
