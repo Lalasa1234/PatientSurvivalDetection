@@ -14,7 +14,6 @@ To predict the chances of patient survival based on multiple variables on demogr
 - Backtracking the Streamlit results to verify the model's prediction
 
 **Deployment**
-- In medical context, practitioners typical upload patient results. Hence, this application has the option to upload patient information in the form of .csv files.
-  TestData_Patients![image](https://github.com/Lalasa1234/PatientSurvivalDetection/assets/166985767/7bf36c6a-6f24-42a3-8250-c3586aebe279)
-
+- In medical context, practitioners typical upload patient results. Hence, this application has the option to upload patient information in the form of .csv.
+  TestData_Patients is available in the Dataset folder
 - Link: https://patientsurvivaldetection-gjfgzmmltdkgycabkjnrcz.streamlit.app/
