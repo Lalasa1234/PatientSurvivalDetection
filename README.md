@@ -14,7 +14,7 @@ To predict the chances of patient survival based on multiple variables on demogr
 - Model checkpoint to save the best model state
 - Backtracking the Streamlit results to verify the model's prediction
 
-**Deployment**
+**Application UI**
 - In medical context, practitioners typical upload patient results. Hence, this application has the option to upload patient information (.csv).
   
   Note: TestData_Patients is available in the Dataset folder
