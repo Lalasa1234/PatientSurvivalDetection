@@ -17,5 +17,5 @@ To predict the chances of patient survival based on multiple variables on demogr
 **Deployment**
 - In medical context, practitioners typical upload patient results. Hence, this application has the option to upload patient information (.csv).
   
-  TestData_Patients is available in the Dataset folder
+  Note: TestData_Patients is available in the Dataset folder
 - Link: https://patientsurvivaldetection-gjfgzmmltdkgycabkjnrcz.streamlit.app/
