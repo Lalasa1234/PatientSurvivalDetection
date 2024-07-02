@@ -11,7 +11,7 @@ The target feature is hospital_death which is a binary variable. The task is to 
 
 ___
 
-### Step-by-step methodology ###
+### Step-by-step Methodology 🪜📄 ###
 
 **Data cleaning and preprocessing**
 - Outlier capping based on the APACHE3 medical standards
