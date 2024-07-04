@@ -1,9 +1,9 @@
 ### PatientSurvivalDetection 🏥💊 ###
 ___
 
-**Business Application for Hospitals**
+**Business Application in Hospitals**
 
-To predict the chances of patient survival based on multiple variables on demographic, vitals, labs results, labs blood gas, APACHE covariate, prediction, comorbidity and grouping.
+To help medical practitioners predict the chances of patient survival proactively based on multiple variables on demographic, vitals, labs results, labs blood gas, APACHE covariate, prediction, comorbidity and grouping. Based on the prediction, the treatments could be hyper-personalized.
 
 **Problem Statement**
 
