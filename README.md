@@ -32,6 +32,8 @@ ___
   Note: TestData_Patients is available in the Dataset folder
 - Link: https://patientsurvivaldetection-gjfgzmmltdkgycabkjnrcz.streamlit.app/
 
-  **Next Steps 📃☑️✅**
-  - Log results on MLFlow
-  - Showcase the results on DagsHub
+__
+
+ **Next Steps 📃☑️✅**
+ - Log results on MLFlow
+ - Showcase the results on DagsHub
