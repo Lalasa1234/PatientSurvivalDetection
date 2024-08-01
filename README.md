@@ -5,6 +5,9 @@ ___
 
 To help medical practitioners predict the chances of patient survival proactively based on multiple variables on demographic, vitals, labs results, labs blood gas, APACHE covariate, prediction, comorbidity and grouping. Based on the prediction, the treatments could be hyper-personalized.
 
+**For a prediction indicating death** the doctors could hyper-personalize the treatment specific to patient conditions
+**For a prediction indicating survival** the doctors could continue with the current treatment and medication
+
 **Problem Statement**
 
 The target feature is hospital_death which is a binary variable. The task is to classify this variable based on the other 84 features based on the scoring metric: Area under ROC curve and Recall (this is important as the cost and risk of model predicting death is higher than the model predicting life)
