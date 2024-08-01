@@ -8,7 +8,9 @@ To help medical practitioners predict the chances of patient survival proactivel
 **If prediction = death** the doctors could hyper-personalize the treatment specific to patient conditions
 
 **If prediction = survival** the doctors could continue with the current treatment and medication
-__
+
+___
+
 
 **Problem Statement**
 
