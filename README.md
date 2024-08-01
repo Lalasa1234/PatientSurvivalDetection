@@ -5,12 +5,12 @@ ___
 
 To help medical practitioners predict the chances of patient survival proactively based on multiple variables on demographic, vitals, labs results, labs blood gas, APACHE covariate, prediction, comorbidity and grouping. Based on the prediction, the treatments could be hyper-personalized.
 
-**Prediction = death**: The doctors could hyper-personalize the treatment specific to patient conditions, such as
+**Prediction = Death**: The doctors could hyper-personalize the treatment specific to patient conditions, such as
 - Advanced diagnostics to identify specific patient needs
 - Tailored interventions that target the patient's unique condition and medical history
 - Possible use of experimental or aggressive treatments that may offer a higher chance of survival
 
-**Prediction = survival**, the doctors could continue with the current treatment and medication, and
+**Prediction = Survival**: The doctors could continue with the current treatment and medication, and
 - Monitor the patient closely to ensure the treatment remains effective
 - Adjust the treatment plan if necessary based on the patient's response
 
