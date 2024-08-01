@@ -5,8 +5,10 @@ ___
 
 To help medical practitioners predict the chances of patient survival proactively based on multiple variables on demographic, vitals, labs results, labs blood gas, APACHE covariate, prediction, comorbidity and grouping. Based on the prediction, the treatments could be hyper-personalized.
 
-**For a prediction indicating death** the doctors could hyper-personalize the treatment specific to patient conditions
-**For a prediction indicating survival** the doctors could continue with the current treatment and medication
+**If prediction = death** the doctors could hyper-personalize the treatment specific to patient conditions
+
+**If prediction = survival** the doctors could continue with the current treatment and medication
+__
 
 **Problem Statement**
 
